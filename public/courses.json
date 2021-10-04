@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "courseName": "Finance background",
+    "institute": "University of Michigan",
+    "catagory": "Specialization",
+    "courseFee": "5000$",
+    "rating": 5,
+    "totalStudent": "2.5m",
+    "type": "begginer",
+    "imgUrl": "https://as2.ftcdn.net/v2/jpg/02/03/66/93/1000_F_203669387_m7IvXlkV0FQwA69Xpt8AwlAdO5Ih05Mc.jpg"
+  },
+  {
+    "id": 2,
+    "courseName": " English language learning background.",
+    "institute": "The University of Edinburgh",
+    "catagory": "Course",
+    "courseFee": "5000$",
+    "rating": "4",
+    "totalStudent": "210k",
+    "type": "begginer",
+    "imgUrl": "https://image.freepik.com/free-photo/young-woman-teaching-english-lessons_23-2149019790.jpg"
+  },
+  {
+    "id": 3,
+    "courseName": "Web Development course",
+    "institute": "Johns Hopkins University",
+    "catagory": "Course",
+    "courseFee": "5000$",
+    "rating": "5",
+    "totalStudent": "610k",
+    "type": "Mixed",
+    "imgUrl": "https://image.freepik.com/free-photo/close-up-male-hands-using-laptop-home_1150-790.jpg"
+  },
+  {
+    "id": 4,
+    "courseName": "Programing course ",
+    "institute": "University of Toronto",
+    "catagory": "Course",
+    "courseFee": "7000$",
+    "rating": "4",
+    "totalStudent": "260k",
+    "type": "begginer",
+    "imgUrl": "https://as2.ftcdn.net/v2/jpg/02/25/08/49/1000_F_225084966_hhswkk9GgkAKcr2p1n69aaiI1jETbZO9.jpg"
+  },
+  {
+    "id": 5,
+    "courseName": "software engineering or programming vector illustration.",
+    "institute": "torento University",
+    "catagory": "Specialization",
+    "courseFee": "8000$",
+    "rating": "5",
+    "totalStudent": "640k",
+    "type": "begginer",
+    "imgUrl": "https://as1.ftcdn.net/v2/jpg/04/58/59/04/500_F_458590490_DA4eQ1cuxfxPl4UbqmaA6m58jhNCLCP0.jpg"
+  },
+  {
+    "id": 6,
+    "courseName": "Coding for Everyone: C and C++",
+    "institute": "University of California, Santa Cruz",
+    "catagory": "Specialization",
+    "courseFee": "6000$",
+    "rating": "5",
+    "totalStudent": "360k",
+    "type": "begginer",
+    "imgUrl": "https://image.freepik.com/free-photo/flat-lay-business-concept_53876-24738.jpg"
+  },
+  {
+    "id": 7,
+    "courseName": "buisness course",
+    "institute": "University of Pennsylvania",
+    "catagory": "Specialization",
+    "courseFee": "5000$",
+    "rating": "4",
+    "totalStudent": "25k",
+    "type": "begginer",
+    "imgUrl": "https://as2.ftcdn.net/v2/jpg/02/87/44/25/1000_F_287442555_Ml68Z2sFrTkxntlqrJABQyxRbEK3HmGT.jpg"
+  },
+  {
+    "id": 8,
+    "courseName": "Arabic Calligraphy Background",
+    "institute": "Princeton University",
+    "catagory": "Course",
+    "courseFee": "7000$",
+    "rating": "5",
+    "totalStudent": "160k",
+    "type": "begginer",
+    "imgUrl": "https://t3.ftcdn.net/jpg/03/07/64/76/240_F_307647631_gVTBtJ8gEhmZT25tdPo2bypkBC5V6Czc.jpg"
+  },
+  {
+    "id": 9,
+    "courseName": "Accounting course",
+    "institute": "Google",
+    "catagory": "Professional Certificate",
+    "courseFee": "4000$",
+    "rating": "4",
+    "totalStudent": "380k",
+    "type": "begginer",
+    "imgUrl": "https://t4.ftcdn.net/jpg/03/31/18/43/240_F_331184330_GSrqQ2dWgCsvz1F4jQlb8klA6ROoJDsQ.jpg"
+  },
+  {
+    "id": 10,
+    "courseName": "Risk Management and Assessment for Business Investment Concept.",
+    "institute": "university of Germany",
+    "catagory": "Professional Certificate",
+    "courseFee": "8000$",
+    "rating": "5",
+    "totalStudent": "480k",
+    "type": "begginer",
+    "imgUrl": "https://as1.ftcdn.net/v2/jpg/02/97/03/22/1000_F_297032265_XI1AU8MJrDuly9rFjf0VcU04Y3cilTe9.jpg"
+  },
+  {
+    "id": 11,
+    "courseName": "Graphic designer using robotics arms with digital screen 3D rendering",
+    "institute": "University of Michigan",
+    "catagory": "Specialization",
+    "courseFee": "9000$",
+    "rating": "5",
+    "totalStudent": "220k",
+    "type": "begginer",
+    "imgUrl": "https://as2.ftcdn.net/v2/jpg/01/94/73/01/1000_F_194730139_bHdQerH3CoGxGEsZcMZms1qqAo7I9g7b.jpg"
+  },
+  {
+    "id": 12,
+    "courseName": " Mechanical Engineering course",
+    "institute": "Google",
+    "catagory": "Professional Certificate",
+    "courseFee": "8000$",
+    "rating": "5",
+    "totalStudent": "270k",
+    "type": "begginer",
+    "imgUrl": "https://as1.ftcdn.net/v2/jpg/02/54/48/76/1000_F_254487633_81aU6CHPdstpOGy7XkQDmMmDQQ7zsrOq.jpg"
+  }
+]
