@@ -15,6 +15,7 @@ function ContactForm() {
       <p className="text-center">
         You can easily reach us through filling up the form
       </p>
+      <h4 className="text-center" >Help-line: +99 5764 5466</h4>
       <div>
         <Container>
           <Row>
@@ -66,6 +67,7 @@ function ContactForm() {
           <Col className="text-center" >
               <img src="https://t3.ftcdn.net/jpg/02/99/32/08/240_F_299320851_UUXSujdX4fElJF2IM6YbhdMSKIgvfZAz.jpg" alt="" />
               <p>Our team is always with you</p>
+             
               </Col>
         </Container>
 
